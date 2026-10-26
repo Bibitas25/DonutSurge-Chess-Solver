@@ -2,7 +2,7 @@
 
 A small desktop chess board that shows you the best move for any position, powered by the [Stockfish](https://stockfishchess.org) engine. Click pieces to play moves on the board, press **BEST MOVE**, and the engine draws an arrow and lists its top lines with evaluations.
 
-<!-- Add a screenshot here: ![Chess Helper](docs/screenshot.png) -->
+<img width="622" height="899" alt="preview" src="https://github.com/user-attachments/assets/42351cfd-2ed3-4327-a735-882958c3215f" /><!-- Add a screenshot here: ![Chess Helper](docs/screenshot.png) -->
 
 > **Not affiliated with, endorsed by or in any way associated with donutsurge.com.**
 

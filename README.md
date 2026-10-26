@@ -15,10 +15,6 @@ A small desktop chess board that shows you the best move for any position, power
 - Resizable window: the board, logo and controls scale with the window
 - Standalone: it runs locally and is not connected to any website
 
-## Fair play
-
-This tool is meant for **analysis, studying and practice** (reviewing your own games, exploring positions, playing against bots or by yourself). Do not use it during live games against other people: that is cheating and it violates the rules of every chess site.
-
 ## Requirements
 
 - Windows 10/11 (Linux and macOS also work, see the notes below)
